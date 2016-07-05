@@ -1,4 +1,4 @@
-# ssw-additional-checks
+# SSW-Additional-Checks
 This plugin provides additional checks a super admin can customize before displaying [Site Setup Wizard](https://wordpress.org/plugins/site-setup-wizard/)'s steps to a user.
 
 You can customize it based on your needs and perform any form of additional checks you may require from a user before allowing him to proceed with the Site Setup Wizard. 
