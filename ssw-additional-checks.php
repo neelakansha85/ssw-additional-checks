@@ -5,7 +5,7 @@
  * Plugin Name:       Site Setup Wizard Additional Checks
  * Plugin URI:        https://github.com/neelakansha85/ssw-additional-checks
  * Description:       This plugin provides additional checks a super admin can customize before displaying Site Setup Wizard's steps to a user.
- * Version:           1.0.0
+ * Version:           1.0
  * Author:            Neel Shah <neel@nsdesigners.com>
  * Author URI:        http://neelshah.info
  * License:           GPL-2.0+
